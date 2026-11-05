@@ -36,3 +36,7 @@ Check that it is found:
 ```bash
 npx skills add . --list
 ```
+
+## License
+
+[MIT](LICENSE)
